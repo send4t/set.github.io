@@ -1,1 +1,0 @@
-To start the App Yarn && Yarn start
